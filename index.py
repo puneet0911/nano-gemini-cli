@@ -70,6 +70,6 @@ class NanoBananaGeminiApp:
 
 if __name__ == "__main__":
     # Replace this with your actual API key from Google AI Studio!
-    api_key = "AIzaSyATAjRBEzxFkNcQcfpCkkEM-o7kQks4TdE"
+    api_key = "YOUR_GEMINI_API_KEY"
     app = NanoBananaGeminiApp(api_key)
     app.run()
