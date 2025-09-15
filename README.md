@@ -16,7 +16,7 @@ A dynamic Python CLI tool for managing prompts and generating images via Googleâ
 - [requests](https://pypi.org/project/requests/) library  
   Install via:  
 
- ```pip install requests```
+ ``` pip install requests ```
 
 - Gemini API key  
 - Obtain from [Google AI Studio](https://aistudio.google.com/)
@@ -25,10 +25,10 @@ A dynamic Python CLI tool for managing prompts and generating images via Googleâ
 
 1. Clone the repository:
 
-```git clone https://github.com/yourusername/nano-gemini-cli.git```
-```cd nano-gemini-cli```
+``` git clone https://github.com/yourusername/nano-gemini-cli.git ```
+``` cd nano-gemini-cli ```
 
-2. Install dependencies:
+2. Install dependencies:-
 
 ```pip install requests```
 
